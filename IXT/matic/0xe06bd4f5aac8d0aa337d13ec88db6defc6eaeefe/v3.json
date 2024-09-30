@@ -1,0 +1,15 @@
+[
+  {
+    "network": "matic",
+    "uniswapVersion": "v3",
+    "token0": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+    "token0Symbol": "IXT",
+    "token1": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE",
+    "token1Symbol": "NZDS",
+    "eventBlock": 38588114,
+    "creator": "0xf6657BBCfEB5C2746E8C609e35018A5a8caa13fb",
+    "txHash": "0xfe3361a89a674f4a45547248551e70e0023638a1bb6878139c20bec80584ec07",
+    "tickSpacing": "60",
+    "poolAddress": "0x968CD66b868aEe9964ba214f6DcA5B1A31A61DEF"
+  }
+]

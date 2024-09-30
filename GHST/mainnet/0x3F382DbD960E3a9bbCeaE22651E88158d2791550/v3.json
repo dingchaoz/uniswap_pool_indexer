@@ -1,0 +1,28 @@
+[
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v3",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1Symbol": "WETH",
+    "eventBlock": 12612668,
+    "creator": "0x4E42b034586dE6d3C09d4cd1b521746c5420AaDc",
+    "txHash": "0xccfb13673b7ef1eea446356029c42b71daf014d9d2cc2ce599bac2cd9a8e6810",
+    "tickSpacing": "200",
+    "poolAddress": "0xFbA31F01058DB09573a383F26a088f23774d4E5d"
+  },
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v3",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "token1Symbol": "USDT",
+    "eventBlock": 12937495,
+    "creator": "0xdE07AbF5663B88FbD0974Ee69b3BC75971A29381",
+    "txHash": "0xe549b104762ed9721a96d2eff2f06282d31e825de18363a2ffd736fbff896606",
+    "tickSpacing": "60",
+    "poolAddress": "0x07c02d9feDD5f4d8a48a3Ed7dd5F26e9d5EDFeF8"
+  }
+]

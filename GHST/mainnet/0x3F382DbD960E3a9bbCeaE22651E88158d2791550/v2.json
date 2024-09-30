@@ -1,0 +1,62 @@
+[
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v2",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1Symbol": "WETH",
+    "eventBlock": 10860500,
+    "creator": "0x726CDC837384a7Deb8bbea64beba2E7b4d7346c0",
+    "txHash": "0x4875498ceb1a00b4b5510cbbbf6d98a8f8ca64ee4b8ec4634e21f05dc55eca2d",
+    "pairAddress": "0xaB659deE3030602c1aF8C29D146fAcD4aeD6EC85"
+  },
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v2",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1Symbol": "DAI",
+    "eventBlock": 10864493,
+    "creator": "0x03f2B3FF6C8dd252556A0e15b60f9d1618dDdF3b",
+    "txHash": "0x17a01d181e71bfb6ff913e4383de9972b946bdd5284c0e7cc930bc7c159331c9",
+    "pairAddress": "0xf958A4CfcA7AA4b2171120C96d03e9508C4FC8dB"
+  },
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v2",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "token1Symbol": "AAVE",
+    "eventBlock": 11483420,
+    "creator": "0x7cb670527974F72E50d2E4d01afD0538fb01dc63",
+    "txHash": "0x03a9a258127c6e7276e977c3768cd31250b6caffa2220ad8cb981c69c273fa77",
+    "pairAddress": "0x3dFfF61CD4980a4248e536231cB924e1fe7f9340"
+  },
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v2",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0x739763a258640919981F9bA610AE65492455bE53",
+    "token1Symbol": "NDR",
+    "eventBlock": 11547853,
+    "creator": "0x07F6624b895B47AE66E916eC6a0479D7c3cFa319",
+    "txHash": "0x6d454fd38438478946b793d8f7d0fe31857cf06407fc944c41be1cb3bf959fea",
+    "pairAddress": "0x30D48eebf6f7602182798d1baAF8c00aDE5d54a8"
+  },
+  {
+    "network": "mainnet",
+    "uniswapVersion": "v2",
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token0Symbol": "GHST",
+    "token1": "0xCEb67a66c2c8a90980dA3A50A3F96c07525a26Cb",
+    "token1Symbol": "KABOSU",
+    "eventBlock": 20604900,
+    "creator": "0xA7E1Edc2583D19DF2C90B34060eC41282859EA17",
+    "txHash": "0x62b70301f4b60a07a7427b166cfc490bca9a2883ca9501734386d0d380ae2f2e",
+    "pairAddress": "0x7f4D4df779ae5C77F4c8bFEa398A3B612b436927"
+  }
+]
